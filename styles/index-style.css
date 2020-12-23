@@ -16,4 +16,7 @@ body{
     #myPic {
         width: 100%;
     }
+    div {
+        display: block;
+    }
 }
