@@ -11,3 +11,9 @@ body{
     box-shadow: 5px 2px 5px rgb(53, 105, 32);
     margin-right: 20px;
 }
+
+@media(max-width: 600px) {
+    #myPic {
+        width: 100%;
+    }
+}
