@@ -12,9 +12,10 @@ body{
     margin-right: 20px;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 800px) {
     #myPic {
         width: 100%;
+        display: block;
     }
     div {
         display: block;
